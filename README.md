@@ -1,2 +1,3 @@
 # hazel
-Expert option 
+
+"Trading Signal Advisor for Expert Option".
