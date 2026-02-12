@@ -1,0 +1,6 @@
+numpy
+pandas
+ta-lib
+requests
+websockets
+asyncio
